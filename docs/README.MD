@@ -4,4 +4,4 @@ es un sistema de gestión de inventario diseñado para facilitar el control, org
 
 El sistema está desarrollado utilizando una arquitectura MVC (Modelo - Vista - Controlador), separando la lógica del negocio, la manipulación de datos y la interfaz del usuario, permitiendo un código más ordenado, escalable y fácil de mantener.
 
-Moonshine busca brindar una solución eficiente para optimizar los procesos de inventario, reducir errores en el registro de productos y mejorar el control de la información empresarial.
+Moonshine busca brindar una solución eficiente para optimizar los procesos de inventario, reducir errores en el registro de productos y mejorar el control de la información empresarial..
