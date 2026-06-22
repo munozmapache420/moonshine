@@ -1,3 +1,4 @@
+# huber stiven useche muñoz
 # Moonshine
 es un sistema de gestión de inventario diseñado para facilitar el control, organización y seguimiento de productos dentro de una empresa. El proyecto permite administrar la información de los productos, controlar entradas y salidas de inventario y mantener una estructura organizada para mejorar la gestión de recursos.
 
