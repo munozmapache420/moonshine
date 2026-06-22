@@ -1,9 +1,6 @@
 <?php
+// Ya no usas ../app/ porque estás al mismo nivel de la carpeta app
+require_once 'app/controllers/ProductoController.php';
+require_once 'app/models/productoModels.php';
 
-require "../app/controllers/ProductoController.php";
-
-$producto = new ProductoController();
-
-$producto->index();
-
-?>
+// Aquí va la lógica inicial de tu aplicación...
